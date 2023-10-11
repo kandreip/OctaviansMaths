@@ -1,0 +1,15 @@
+/* Add CSS here */
+.active-operation{
+    background-color: #181028 !important;
+}
+
+.active-operation svg{
+    stroke: #fff;
+}
+
+input.\[appearance\:textfield\]::-webkit-outer-spin-button,
+input.\[appearance\:textfield\]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
